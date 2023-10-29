@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;factoy_method_modifié&apos; to &apos;factory_method_modifié&apos;&#x0A;- Original project: &apos;factory_method_modifié&apos;&#x0A;- Original element: &apos;factory_method_modifié/src/factoy_method_modifié&apos;&#x0A;- Renamed element: &apos;factory_method_modifié/src/factory_method_modifié&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;factoy_method_modifié&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;factoy_method_modifié" name="factory_method_modifié" qualified="false" references="true" stamp="1696652443571" textual="false" version="1.0"/>
+</session>

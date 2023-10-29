@@ -1,0 +1,8 @@
+
+public class DList {
+
+	public void insert (DNode pos, Object o){};
+	public void insert (DNode pos) {};
+	public remove (DNode pos) {};
+	
+}

@@ -1,0 +1,13 @@
+
+public class DList {
+
+	public void insert (DNode pos, Object o){};
+	public void remove (DNode pos) {};
+	public void insertHead (Object o) {};
+	public Object removeHead () {};
+	public void insertTail (Object o) {}; // Pour insérer un élément en fin de liste
+	public Object removeTail () {};
+	public Object getHead () {}; // Pour récupérer l'élément en tête de liste
+	public Object getTail () {};
+	
+}

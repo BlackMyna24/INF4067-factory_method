@@ -1,0 +1,11 @@
+INDEX VERSION 1.134+/home/myna/eclipse-workspace/patrons_de_construction/.metadata/.plugins/org.eclipse.jdt.core
+1169307923.index
+2584253285.index
+2874647508.index
+1396702505.index
+2720526276.index
+1865797976.index
+1328112716.index
+1280263516.index
+2729107355.index
+1188304899.index
